@@ -1,4 +1,4 @@
-ParentLocationCode,ParentLocation,SpatialDimValueCode,Location,GDP,Period type,Period,Dim1 type,Dim1,Dim1ValueCode,FactValueNumeric,Value,Level,Language,DateModified,,,,,,,,,,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,,FactValueTranslationID,FactComments
+ParentLocationCode,ParentLocation,SpatialDimValueCode,Location,GDP,Period type,year,Dim1 type,Dim1,Dim1ValueCode,FactValueNumeric,Value,Level,Language,DateModified,,,,,,,,,,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,,FactValueTranslationID,FactComments
 EMR,Eastern Mediterranean,AFG,Afghanistan,,Year,2000,Sex,Both sexes,BTSX,54.99,54.99,50.0-59.9,EN,2020-12-03T16:00:00.000Z,,,,,,,,,,,,,,,,,
 EMR,Eastern Mediterranean,AFG,Afghanistan,,Year,2010,Sex,Both sexes,BTSX,59.94,59.94,50.0-59.9,EN,2020-12-03T16:00:00.000Z,,,,,,,,,,,,,,,,,
 EMR,Eastern Mediterranean,AFG,Afghanistan,,Year,2015,Sex,Both sexes,BTSX,61.65,61.65,60.0-69.9,EN,2020-12-03T16:00:00.000Z,,,,,,,,,,,,,,,,,
